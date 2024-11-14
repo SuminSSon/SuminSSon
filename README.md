@@ -11,27 +11,34 @@ I'm a Computer Engineering student at Kyung Hee University with a strong interes
 
 ### 📅 Experiences
 - 2021.03. Bachelor’s in Computer Engineering at Kyung Hee University
+- 2023.03. Head of Planning, Hacker Club (Kyung Hee University)
 - 2023.07. Undergraduate Researcher at ICNS Lab
-- 2024.03. Member of the Open Source Team at Kyung Hee University Software Membership
 - 2023.09. Member of the Contest Team at Kyung Hee University Software Membership
-- 2024.03 AWS Cloud Clubs Captain (Kyung Hee University)
+- 2024.03. AWS Cloud Clubs Captain (Kyung Hee University)
+- 2024.03. Member of the Open Source Team at Kyung Hee University Software Membership
 - 2024.07. Member of AUSG 8th
+
+
 
 ### 🛠 Tech Stack
 <div align="center">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
+</div>
 
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
+<div align="center">
+  <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+</div>
 
-<img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+<div align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> 
+</div>
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> 
-
-<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
+<div align="center">
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </div>
 
 ### 🏆 Awards
