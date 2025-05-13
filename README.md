@@ -17,7 +17,7 @@ I'm a Computer Engineering student at Kyung Hee University with a strong interes
 - 2024.03. AWS Cloud Clubs Captain (Kyung Hee University)
 - 2024.03. Member of the Open Source Team at Kyung Hee University Software Membership
 - 2024.07. Member of AUSG 8th
-- 2025.03. M.S. in Computer Engineering at Kyung Hee University (expected enrollment)
+- 2025.03. M.S. in Computer Engineering at Kyung Hee University (ICNS Lab)
 
 
 ### 🛠 Tech Stack
