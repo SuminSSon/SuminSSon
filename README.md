@@ -10,21 +10,20 @@ My name is Sumin Son.
 I'm a Computer Engineering student at Kyung Hee University with a strong interest in **cloud computing** and **networking**. I’m passionate about exploring technologies that drive efficient, large-scale systems and always eager to learn more about advancements in cloud infrastructure and network management.
 
 ### 📅 Experiences
-- 2021.03. Bachelor’s in Computer Engineering at Kyung Hee University
+- 2021.03. B.S. in Computer Engineering at Kyung Hee University
 - 2023.03. Head of Planning, Hacker Club (Kyung Hee University)
 - 2023.07. Undergraduate Researcher at ICNS Lab
 - 2023.09. Member of the Contest Team at Kyung Hee University Software Membership
 - 2024.03. AWS Cloud Clubs Captain (Kyung Hee University)
 - 2024.03. Member of the Open Source Team at Kyung Hee University Software Membership
 - 2024.07. Member of AUSG 8th
-
+- 2025.03. M.S. in Computer Engineering at Kyung Hee University (expected enrollment)
 
 
 ### 🛠 Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
 </div>
 
 <div align="center">
@@ -46,3 +45,4 @@ I'm a Computer Engineering student at Kyung Hee University with a strong interes
 - September 2022: Encouragement Award in Club Competition (at Kyung Hee University)
 - February 2024: Encouragement Award in KSC 2023 Undergraduate Paper Contest
 - June 2024: 1st Place in Startup Idea Audition (at Kyung Hee University)
+- February 2025: Encouragement Award in KSC 2024 Undergraduate Paper Contest
